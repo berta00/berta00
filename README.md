@@ -8,7 +8,7 @@ Hi buddy, I'm <a href="https://www.instagram.com/marcobertagnolli/" target="_bla
 ## GitHub Stats 
 
 <p align="center">
-<img height="280em" src="https://github-readme-stats.vercel.app/api?username=s3rgi0s&hide_border=true&count_private=true&show_icons=true&theme=ayu-mirage" alt="s3rgi0s" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=s3rgi0s&hide_border=true&count_private=true&show_icons=true&theme=ayu-mirage" alt="s3rgi0s" align = "center"/>
 <img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=s3rgi0s&show_icons=true&locale=en&layout=compact&hide_border=true&theme=ayu-mirage" alt="s3rgi0s" align = "center"/>
 </p>
 
