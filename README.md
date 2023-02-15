@@ -11,7 +11,9 @@ Hi buddy, I'm <a href="https://www.instagram.com/marcobertagnolli/" target="_bla
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berta00&hide_border=true&count_private=true&show_icons=true&theme=ayu-mirage" alt="berta00" align = "center"/>
 <img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=berta00&show_icons=true&locale=en&layout=compact&hide_border=true&theme=ayu-mirage" alt="berta00" align = "center"/>
 
-## links
+<br>
+
+## Links
 <a href="https://www.codewars.com/users/s3rgi0s">Codewars</a>
 <a> - </a>
 <a href="https://instagram.com/marcobertagnolli?igshid=ZDdkNTZiNTM=">Instagram</a>
