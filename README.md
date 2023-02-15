@@ -12,6 +12,12 @@ Hi buddy, I'm <a href="https://www.instagram.com/marcobertagnolli/" target="_bla
 <img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=berta00&show_icons=true&locale=en&layout=compact&hide_border=true&theme=ayu-mirage" alt="berta00" align = "center"/>
 
 ## links
-<br>
-<a href="https://www.codewars.com/users/s3rgi0s"><br>Codewars</a>
+<a href="https://www.codewars.com/users/s3rgi0s">Codewars</a>
+<a> - </a>
+<a href="https://instagram.com/marcobertagnolli?igshid=ZDdkNTZiNTM=">Instagram</a>
+<a> - </a>
+<a href="mailto:bertagnollimarco999@gmail.com">Email</a>
+<a> - </a>
+<a href="https://stackoverflow.com/users/13780536/berta00">StackOverflow</a>
+
 </p>
